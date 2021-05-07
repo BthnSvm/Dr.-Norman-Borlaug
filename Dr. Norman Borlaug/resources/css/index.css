@@ -1,0 +1,71 @@
+* {
+    font-family: Girassol, sans-serif;
+}
+
+
+header {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold; 
+}
+
+.gray {
+    background-color: rgba(196, 198, 199, 0.4);
+
+}
+
+.image {
+    text-align: center;
+    background-color: white;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+span {
+    font-weight: bold;
+}
+
+.information li {
+    text-align: center;
+    
+}
+
+
+.life {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.information {
+    
+    vertical-align: middle;
+}
+
+li {
+    text-align: center;
+    display: inline;
+}
+
+a:hover {
+    color:lightcoral
+}
+
+[href] {
+    color: red;
+}
+
+.middle {
+    text-align: center;
+    font-size: 20px;
+    font-weight:500;
+}
+
+.information p {
+    font-size: 20px;
+}
+
+.italic {
+    font-style: italic;
+    text-align: center;
+}
